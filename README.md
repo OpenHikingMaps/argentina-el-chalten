@@ -1,4 +1,4 @@
-# PatagoniaOpenTrekkingMap_ElChalten
+# PatagoniaOpenTrekkingMap - ElChalten
 
 Copyright 2016 [Stefano Cudini](http://labs.easyblog.it/stefano-cudini/)
 
