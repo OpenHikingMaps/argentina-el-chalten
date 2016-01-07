@@ -1,0 +1,668 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2015-12-23T00:00:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/672562803",
+      "properties": {
+        "@id": "node/672562803",
+        "ele": "2700",
+        "name": "Domo Blanco",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1010236,
+          -49.2700407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/672562804",
+      "properties": {
+        "@id": "node/672562804",
+        "ele": "3102",
+        "image": "http://www.flickr.com/photos/carlos-diaz/5458025733/sizes/l/in/photostream/",
+        "name": "Cerro Torre",
+        "natural": "peak",
+        "peaktype": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0973033,
+          -49.2907155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/672562805",
+      "properties": {
+        "@id": "node/672562805",
+        "ele": "2938",
+        "name": "Adela",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1010583,
+          -49.3076249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/672562806",
+      "properties": {
+        "@id": "node/672562806",
+        "ele": "2730",
+        "name": "Aguja Standhardt",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0984539,
+          -49.2833945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/672562807",
+      "properties": {
+        "@id": "node/672562807",
+        "ele": "2850",
+        "name": "Torre Egger",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0977188,
+          -49.286695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/672562816",
+      "properties": {
+        "@id": "node/672562816",
+        "ele": "2665",
+        "name": "Doblado",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1020094,
+          -49.3253186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/672562817",
+      "properties": {
+        "@id": "node/672562817",
+        "ele": "2840",
+        "name": "Adela Sur",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0947731,
+          -49.3127381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/672562820",
+      "properties": {
+        "@id": "node/672562820",
+        "ele": "2.121 m",
+        "name": "Solo",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0280166,
+          -49.3424293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/672565662",
+      "properties": {
+        "@id": "node/672565662",
+        "ele": "1691",
+        "name": "Loma de las Pizarras",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9825253,
+          -49.2977534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/672565663",
+      "properties": {
+        "@id": "node/672565663",
+        "ele": "2152",
+        "name": "Techado Negro",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0132114,
+          -49.3003347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/672565664",
+      "properties": {
+        "@id": "node/672565664",
+        "comment": "ajuste posición de acuerdo a SRTM v2 y no imagen Bing, que distorsioina",
+        "ele": "3002",
+        "name": "Aguja Poincenot",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.039788,
+          -49.2804529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/672565665",
+      "properties": {
+        "@id": "node/672565665",
+        "comment": "ajuste posición de acuerdo a SRTM v2 y no imagen Bing, que distorsioina",
+        "ele": "2558",
+        "name": "Aguja Saint-Exupery",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.038817,
+          -49.2881803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/672567137",
+      "properties": {
+        "@id": "node/672567137",
+        "ele": "1806",
+        "name": "Madsen",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9924171,
+          -49.269377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/672567138",
+      "properties": {
+        "@id": "node/672567138",
+        "comment": "Para posición orientación por SRTM v2 y no imagen de Bing",
+        "ele": "2010",
+        "name": "Punta Velluda",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0149018,
+          -49.2697723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/672567139",
+      "properties": {
+        "@id": "node/672567139",
+        "ele": "1188",
+        "name": "Polo",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9305197,
+          -49.2632967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/672567140",
+      "properties": {
+        "@id": "node/672567140",
+        "ele": "866",
+        "name": "León",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9250265,
+          -49.309205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/672567141",
+      "properties": {
+        "@id": "node/672567141",
+        "ele": "2732",
+        "name": "Aguja Mermoz",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0371209,
+          -49.2636221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/672567142",
+      "properties": {
+        "@id": "node/672567142",
+        "comment": "Para posición orientación por SRTM v2 y no imagen de Bing",
+        "ele": "2574",
+        "name": "Aguja Guillaumet",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0328107,
+          -49.2588853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/672567143",
+      "properties": {
+        "@id": "node/672567143",
+        "comment": "Para posición orientación por SRTM v2 y no imagen de Bing",
+        "ele": "2257",
+        "name": "Eléctrico",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0041147,
+          -49.2507534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/672567144",
+      "properties": {
+        "@id": "node/672567144",
+        "comment": "Para posición orientación por SRTM v2 y no imagen de Bing",
+        "ele": "2270",
+        "name": "Eléctrico",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0201748,
+          -49.2533522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/677057781",
+      "properties": {
+        "@id": "node/677057781",
+        "comment": "ajuste posición de acuerdo a SRTM v2 y no imagen Bing, que distorsioina",
+        "ele": "2163",
+        "name": "Mojón Rojo",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0314212,
+          -49.2969655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/677057786",
+      "properties": {
+        "@id": "node/677057786",
+        "comment": "ajuste posición de acuerdo a SRTM v2 y no imagen Bing, que distorsioina",
+        "ele": "2335",
+        "name": "Aguja de la S",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0357691,
+          -49.2936696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/677057791",
+      "properties": {
+        "@id": "node/677057791",
+        "comment": "ajuste posición de acuerdo a SRTM v2 y no imagen Bing, que distorsioina",
+        "ele": "2482",
+        "name": "Aguja Rafael Juarez",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0397801,
+          -49.2844748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/677057797",
+      "properties": {
+        "@id": "node/677057797",
+        "ele": "2653",
+        "name": "A. Val de Biois",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0418332,
+          -49.2672866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/677057801",
+      "properties": {
+        "@id": "node/677057801",
+        "ele": "1882",
+        "name": "Cerro Eléctrico oeste",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0419012,
+          -49.240923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/677057931",
+      "properties": {
+        "@id": "node/677057931",
+        "ele": "2797",
+        "name": "Ñato",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.096216,
+          -49.3181419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/677057946",
+      "properties": {
+        "@id": "node/677057946",
+        "ele": "2825",
+        "name": "Adela Norte",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1119567,
+          -49.3005801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/677228146",
+      "properties": {
+        "@id": "node/677228146",
+        "ele": "1953",
+        "name": "El Mocho",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0792082,
+          -49.2929144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/677228147",
+      "properties": {
+        "@id": "node/677228147",
+        "ele": "2750",
+        "name": "Punta Heron",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1104678,
+          -49.2896291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2847355964",
+      "properties": {
+        "@id": "node/2847355964",
+        "ele": "1032",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9342359,
+          -49.3426814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3196082197",
+      "properties": {
+        "@id": "node/3196082197",
+        "ele": "2.284 m",
+        "name": "Cerro Marconi",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1473068,
+          -49.2229539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3196086166",
+      "properties": {
+        "@id": "node/3196086166",
+        "ele": "2.313 m",
+        "name": "Aguja Pollone",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0704722,
+          -49.2514756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3196208296",
+      "properties": {
+        "@id": "node/3196208296",
+        "ele": "2.319 m",
+        "name": "Murallón del Viedma",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1297506,
+          -49.3572847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3206290843",
+      "properties": {
+        "@id": "node/3206290843",
+        "ele": "2751",
+        "name": "Cerro Grande",
+        "natural": "peak",
+        "peaktype": "main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0904532,
+          -49.3379717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3483095486",
+      "properties": {
+        "@id": "node/3483095486",
+        "comment": "Posición coordenadas geográficas datum WGS84 y no imagen de Bing",
+        "ele": "3405",
+        "name": "Fitz Roy (Chaltén)",
+        "natural": "peak",
+        "peaktype": "main",
+        "source": "Sección B de Acuerdo de Campos de Hielo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0432222,
+          -49.2712778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3483099402",
+      "properties": {
+        "@id": "node/3483099402",
+        "ele": "2579",
+        "name": "Cerro Pollone",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0883489,
+          -49.2529591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3483099406",
+      "properties": {
+        "@id": "node/3483099406",
+        "ele": "2719",
+        "name": "Per Giorgio",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1017199,
+          -49.2599557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3483099415",
+      "properties": {
+        "@id": "node/3483099415",
+        "ele": "2490",
+        "name": "Rincón",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1339244,
+          -49.2665047
+        ]
+      }
+    }
+  ]
+}
